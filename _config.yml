@@ -812,14 +812,14 @@ css: css
 js: js
 images: images
 
-# ндубд╘н╡лМ╪с║╟╠╬нд╫АйЬ║╠╠Й╪г
+# О©╫О©╫О©╫О©╫д╘н╡О©╫О©╫с║О©╫О©╫О©╫О©╫д╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 passage_end_tag:
   enabled: true
 
 # Theme version
 version: 5.1.4
 
-# ╦ЖхкоШо╒
+# О©╫О©╫О©╫О©╫О©╫О©╫о╒
 daovoice: true
 daovoice_app_id: fa51189e
 
