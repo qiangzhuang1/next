@@ -49,7 +49,7 @@
 
 <!-- 新增访客统计代码 -->
 <div class="busuanzi-count">
-    <script async="" src="http://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <script async="" src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
     <!-- 算法a：pv的方式，单个用户连续点击n篇文章，记录n次访问量 -->
     <span id="busuanzi_container_site_pv">
         本站总访问量<span id="busuanzi_value_site_pv"></span>次
